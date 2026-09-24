@@ -10,3 +10,4 @@ my-video/out/
 # pobierane narzędzia (duże binarki) i osobne repo
 narzedzia/rife-ncnn-vulkan-*/
 my-video/
+narzedzia/realesrgan/
