@@ -1,0 +1,4 @@
+﻿.claude/
+node_modules/
+my-video/node_modules/
+my-video/out/
