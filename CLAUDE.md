@@ -34,7 +34,7 @@ Użytkownik pisze po polsku — odpowiadaj po polsku, krótko. Działaj samodzie
 ## Strony internetowe
 - Nowe strony w `strony/<nazwa>/` (statyczny HTML/CSS/JS, chyba że potrzebny framework)
 - Przed projektowaniem załaduj skill `impeccable` lub `design-taste-frontend` (unikaj „szablonowego” wyglądu)
-- Podgląd: preview_start `strona-statyczna` (serwuje `strony/` na porcie 5173), potem sprawdź
+- Podgląd: preview_start `strona-statyczna` (`narzedzia/skrypty/serwer.mjs`, `strony/` na porcie 5173), potem sprawdź
   konsolę, widok mobilny 375 px (resize_window) i tryb ciemny; zrób zrzut ekranu jako dowód
 - Wymagania: responsywność (mobile-first), semantyczny HTML, alt w obrazach, kontrast WCAG AA,
   meta viewport + opis + og:image, obrazy WebP z `loading="lazy"`, brak poziomego scrolla

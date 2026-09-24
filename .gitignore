@@ -1,4 +1,5 @@
-﻿.claude/
+.claude/scheduled_tasks.lock
+.claude/settings.local.json
 node_modules/
 my-video/node_modules/
 my-video/out/

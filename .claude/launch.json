@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "remotion-studio",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "my-video", "run", "dev", "--", "--no-open"],
+      "port": 3000
+    },
+    {
+      "name": "strona-statyczna",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["narzedzia/skrypty/serwer.mjs", "5173"],
+      "port": 5173
+    }
+  ]
+}
