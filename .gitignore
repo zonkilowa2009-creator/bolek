@@ -1,13 +1,12 @@
-﻿.claude/scheduled_tasks.lock
+.claude/scheduled_tasks.lock
 .claude/settings.local.json
 node_modules/
 my-video/node_modules/
 my-video/out/
 
-# duĹĽe noĹ›niki
+# duże nośniki
 *.zip
 
-# pobierane narzÄ™dzia (duĹĽe binarki) i osobne repo
+# pobierane narzędzia (duże binarki) i osobne repo
 narzedzia/rife-ncnn-vulkan-*/
 my-video/
-my-video/whisper.cpp/
