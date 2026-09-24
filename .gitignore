@@ -2,3 +2,10 @@
 node_modules/
 my-video/node_modules/
 my-video/out/
+
+# duże nośniki
+*.zip
+
+# pobierane narzędzia (duże binarki) i osobne repo
+narzedzia/rife-ncnn-vulkan-*/
+my-video/
