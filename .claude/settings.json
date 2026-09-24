@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(narzedzia/skrypty/*)",
+      "Bash(./narzedzia/skrypty/*)",
+      "Bash(npx remotion *)",
+      "Bash(npm run *)",
+      "Bash(npm --prefix my-video *)",
+      "Bash(node sub.mjs *)",
+      "Bash(/c/Users/zonki/AppData/Local/Programs/Python/Python312/python.exe *)",
+      "Bash(/c/Users/zonki/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/*)",
+      "Bash(ls *)",
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)"
+    ]
+  }
+}

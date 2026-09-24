@@ -1,0 +1,48 @@
+TEKST DLA LEKTORA – "Twój mózg co noc się MYJE"
+===================================================
+
+JAK WYGENEROWAĆ (żeby zmieścić się w kredytach):
+- Model: Eleven Multilingual v2 (albo v3, jeśli masz). Język: polski.
+- Głos: ten sam co w poprzednim filmiku (spójność kanału).
+- Ustawienia: Stability 40–50%, Similarity 75%, Style 15–25%, Speaker Boost: ON, Speed 1.05–1.1.
+- Najlepiej wygeneruj 9 osobnych fragmentów poniżej i zapisz je jako 1.mp3, 2.mp3 … 9.mp3.
+  ElevenLabs liczy za znaki, więc 9 krótkich plików kosztuje TYLE SAMO co jeden długi.
+  Dzięki temu dopasuję animację do głosu co do klatki.
+- Cały tekst to ok. 780 znaków, czyli ok. 780 kredytów.
+- Liczby są już zapisane słownie, żeby lektor ich nie przekręcił. Nie zmieniaj ich na cyfry.
+- Jeśli "Alzheimerem" brzmi źle, wpisz "Alchajmerem".
+
+---------------------------------------------------
+1)  Twój mózg co noc się myje. Serio, dosłownie.
+
+2)  Przez cały dzień neurony pracują i produkują odpady. Na przykład beta-amyloid, białko powiązane z Alzheimerem.
+
+3)  Kiedy zasypiasz, komórki mózgu się kurczą, a przestrzeń między nimi rośnie nawet o sześćdziesiąt procent.
+
+4)  Wtedy płyn mózgowo-rdzeniowy przepływa między nimi i spłukuje toksyny jak woda.
+
+5)  To układ glimfatyczny. Odkryto go dopiero w dwa tysiące dwunastym roku.
+
+6)  Jak pomóc mózgowi się oczyścić? Siedem do dziewięciu godzin snu. Stałe pory zasypiania. Ruch w ciągu dnia. I ciemna, chłodna sypialnia.
+
+7)  Najważniejszy jest sen głęboki. To wtedy płukanie jest najsilniejsze.
+
+8)  Ale uwaga: już jedna zarwana noc podnosi poziom beta-amyloidu w mózgu o około pięć procent.
+
+9)  Znasz kogoś, kto zarywa noce? Wyślij mu to. I obserwuj po więcej o mózgu.
+---------------------------------------------------
+
+WERSJA W JEDNYM KAWAŁKU (jeśli wolisz jeden plik; zostaw pauzy "..." między fragmentami):
+
+Twój mózg co noc się myje. Serio, dosłownie. ... Przez cały dzień neurony pracują i produkują odpady. Na przykład beta-amyloid, białko powiązane z Alzheimerem. ... Kiedy zasypiasz, komórki mózgu się kurczą, a przestrzeń między nimi rośnie nawet o sześćdziesiąt procent. ... Wtedy płyn mózgowo-rdzeniowy przepływa między nimi i spłukuje toksyny jak woda. ... To układ glimfatyczny. Odkryto go dopiero w dwa tysiące dwunastym roku. ... Jak pomóc mózgowi się oczyścić? Siedem do dziewięciu godzin snu. Stałe pory zasypiania. Ruch w ciągu dnia. I ciemna, chłodna sypialnia. ... Najważniejszy jest sen głęboki. To wtedy płukanie jest najsilniejsze. ... Ale uwaga: już jedna zarwana noc podnosi poziom beta-amyloidu w mózgu o około pięć procent. ... Znasz kogoś, kto zarywa noce? Wyślij mu to. I obserwuj po więcej o mózgu.
+
+---------------------------------------------------
+OPIS POD FILMIK (TikTok):
+Twój mózg ma własny system "mycia" i działa tylko wtedy, gdy śpisz 🧠💧 Wyślij to komuś, kto zarywa noce 👇
+#mózg #sen #neurologia #ciekawostki #nauka #zdrowie #alzheimer #edukacja #dlaciebie #fyp
+
+ŹRÓDŁA (gdyby ktoś pytał w komentarzach):
+- Iliff i in., Science Translational Medicine 2012: opisanie układu glimfatycznego
+- Xie i in., Science 2013: sen zwiększa przestrzeń międzykomórkową o ok. 60% (myszy)
+- Fultz i in., Science 2019: fale płynu mózgowo-rdzeniowego w głębokim śnie u ludzi
+- Shokri-Kojori i in., PNAS 2018: jedna nieprzespana noc to ok. +5% beta-amyloidu
